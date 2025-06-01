@@ -49,6 +49,19 @@ I'm a **Junior Software Engineer** with hands-on experience building scalable we
 
 > “Clean code, clear logic, and collaborative growth — that’s my mantra.”
 
+---
+
+## My Stats
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shruti-lab&theme=dark)](https://git.io/streak-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shruti-lab&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Rizel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shruti-lab&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 <!--
