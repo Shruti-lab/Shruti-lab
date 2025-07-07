@@ -27,11 +27,6 @@ I'm a **Junior Software Engineer** with hands-on experience building scalable we
 - Scalable system architecture
 - WebSocket & real-time communication
 
-## 🌱 Currently Learning:
-- Performance optimization for large-scale React apps
-- Microservices architecture with Spring Boot
-- Advanced security and sandboxing techniques
-
 ## 🏆 My Strengths
 - Designing and building robust, user-focused features
 - Writing clean, maintainable, and testable code
