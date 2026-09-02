@@ -1,81 +1,50 @@
-# Hi there, I’m Shruti 👋
-**Product Enthusiast | Software Engineer | AI + Cloud Systems**
+# Hi there, I'm Shruti 👋
 
-I’m a Computer Science graduate from NIT Goa, passionate about building impactful tech products at the intersection of AI, cloud, and user experience. With hands-on experience in scalable backend, cloud, and AI-powered systems, I thrive on translating business problems into robust, user-centric solutions. My journey as a developer has always been guided by a strong product mindset, and I am now actively pursuing opportunities in Product and AI.
-<div id="header" align="center">
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/shruti-p-0724b0207/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://shaded-sun-e89.notion.site/Shruti-Patil-25b8268659e180f4bc24cb2da459661f">
-      <img src="https://img.shields.io/badge/Portfolio Website-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Website Badge"/>
-    </a>
-   </div>
+**DevOps Engineer · Platform & Observability · AI Infrastructure**
+
+CS graduate from NIT Goa. Currently building production monitoring infrastructure at Persistent Systems (embedded with IBM) — replaced Sysdig with a Prometheus/Grafana platform across 20+ microservices, cutting monitoring costs by 40%. I also build AI agent systems on the side and write about LLMOps on Substack.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shruti-p-0724b0207/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=notion&logoColor=white)](https://shaded-sun-e89.notion.site/Shruti-Patil-25b8268659e180f4bc24cb2da459661f)
+[![Substack](https://img.shields.io/badge/Substack-orange?style=for-the-badge&logo=substack&logoColor=white)]([https://substack.com/](https://substack.com/@shruti975293/note/p-209758803?utm_source=notes-share-action&r=61xzzk))
+
 </div>
 
-
-## 🎯 Skills
-
-- **Product & Methodologies:** Product Thinking, System Design, Agile, CI/CD, Jira
-- **Languages/Frameworks:** Python, Java, JavaScript, React.js, FastAPI, Bash
-- **Databases:** MySQL, PostgreSQL, MongoDB, Pandas, Numpy
-- **Cloud & DevOps:** AWS, GCP, Docker, GitHub Actions, Kubernetes
-- **AI/Data:** Llamaindex, LangChain, LLMs, Matplotlib, Pandas, NumPy
-
-
-## 🎯 Focus Areas
-
-- **User-Centric Product Development:** Designing and iterating on products that solve real-world problems and delight users.
-- **AI & Automation:** Leveraging AI/ML, LLMs, and automation to drive efficiency and create intelligent systems.
-- **System Design & Scalability:** Architecting robust, scalable, and maintainable backend and cloud solutions.
-- **Cross-Functional Collaboration:** Bridging the gap between engineering and product to ensure alignment and successful delivery.
-
-  
-## 💪 My Strengths
-
-- **Product Thinking:** Strong ability to understand user needs, translate them into requirements, and balance technical feasibility with business value.
-- **Technical Depth:** Experienced in building and deploying scalable AI and backend systems using Python, SQL, MongoDB, and FastAPI—plus frontend exposure via React.
-- **Collaboration:** Proven track record of working cross-functionally with product, platform, and engineering teams to deliver impactful products.
-- **Leadership:** Led teams and organized large-scale events, fostering innovation and mentorship among peers.
-- **Continuous Learning:** Enthusiastic adopter of new technologies and frameworks; committed to ongoing skill development.
-
-
-## ✨ Let's Connect!
-
-- Want to collaborate or discuss AI tech?  
-- Interested in research or open source?  
-- Drop me a message or connect!
-- 📫 How to reach me: shrutibpatil45@gmail.com
 ---
 
-> “Clean code, clear logic, and collaborative growth — that’s my mantra.”
+## 🔧 What I work with
+
+**Platform & Infra** — Kubernetes · Docker · Helm · Tekton · GitHub Actions · IaC  
+**Observability** — Prometheus · Grafana · PromQL · Langfuse · Structured Logging · Locust  
+**Cloud** — IBM Cloud · AWS · Azure  
+**AI / Backend** — Python · FastAPI · LangChain · LangGraph · Groq API · REST APIs  
+**Databases** — PostgreSQL · MySQL · MongoDB
 
 ---
 
-## My Stats
+## 🚀 Things I've shipped
 
+- **Observability migration** — Automated 45+ Sysdig→Grafana panel migrations with PromQL translation; migrated all alerting rules; 40% cost reduction across IBM internal engineering environments
+- **CI/CD reliability** — Stabilized pipelines for 20+ microservices; resolved deployment, dependency, compliance, and secret-management failures
+- **Product Strategy Copilot** — Production multi-agent AI backend (FastAPI + LangGraph + Groq) with full observability: Langfuse tracing, Prometheus metrics, structured logging, flamegraph profiling, and rate-limit resilience under Locust load testing
+- **AI document platform** (Turtlemint internship) — Backend for LLM-based insurance document analysis; reduced review time by 30%
+
+---
+
+## 📝 Writing
+
+I write about **LLMOps and AI agent observability** on Substack — multi-agent architecture, production failure analysis using Langfuse traces, and platform engineering patterns for LLM backends.
+
+---
+
+## 📊 Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shruti-lab&theme=dark)](https://git.io/streak-stats)
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shruti-lab&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Rizel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shruti-lab&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-
-
-
-<!--
-**Shruti-lab/Shruti-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **shrutibpatil45@gmail.com**
