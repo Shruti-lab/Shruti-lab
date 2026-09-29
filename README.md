@@ -8,7 +8,7 @@ CS graduate from NIT Goa. Currently building production monitoring infrastructur
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shruti-p-0724b0207/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=notion&logoColor=white)](https://shaded-sun-e89.notion.site/Shruti-Patil-25b8268659e180f4bc24cb2da459661f)
-[![Substack](https://img.shields.io/badge/Substack-orange?style=for-the-badge&logo=substack&logoColor=white)]([https://substack.com/](https://substack.com/@shruti975293/note/p-209758803?utm_source=notes-share-action&r=61xzzk))
+[![Substack](https://img.shields.io/badge/Substack-orange?style=for-the-badge&logo=substack&logoColor=white)]([https://substack.com/](https://substack.com/@shruti975293)
 
 </div>
 
